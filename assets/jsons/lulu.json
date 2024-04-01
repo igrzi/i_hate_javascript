@@ -1,0 +1,15 @@
+{
+  "attraction": "Lulu Santos",
+  "address": "Arena Opus, São José, SC            ",
+  "date": "01/06/2024             ",
+  "start_time": "23:00",
+  "map_url": "https://www.google.com/maps/place/-27.5968251,-48.67762",
+  "spotify_playlist": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hcqoo?si=9dd3b1a22a06441e",
+  "social_media": "https://www.instagram.com/lulusantosoficial/?hl=en",
+  "ticket_price": {
+    "pista": 200,
+    "camarote": 600
+  },
+  "buy_url": "https://uhuu.com/comprar-ingressos/sc/sao-jose/lulu-santos-baritono-12841/#/fluxo-de-selecao",
+  "description" : "Lulu Santos volta aos palcos com a turnê 'Barítono' depois de estrear em grande estilo nos Estados Unidos e rodar diferentes regiões do Brasil ao longo de 2023. Com repertório de sucessos, o cantor apresenta seus hits em shows que celebram os 70 anos de vida e 50 de carreira."
+}

@@ -1,0 +1,15 @@
+{
+  "attraction": "Victor e Leo",
+  "address": "Arena Opus, São José, SC            ",
+  "date": "29/05/2024             ",
+  "start_time": "20:00",
+  "map_url": "https://www.google.com/maps/place/-27.5968251,-48.67762",
+  "spotify_playlist": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yisBG?si=cce19e84bc0f466d",
+  "social_media": "https://www.instagram.com/victoreleo/?hl=en",
+  "ticket_price": {
+    "pista": 180,
+    "camarote": 230
+  },
+  "buy_url": "https://www.bilheteriadigital.com/victor-e-leo-florianopolis-29-de-maio",
+  "description" : "Em breve mais informações."
+}

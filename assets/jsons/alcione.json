@@ -1,0 +1,15 @@
+{
+  "attraction": "Alcione",
+  "address": "Arena Opus, São José, SC            ",
+  "date": "07/06/2024                    ",
+  "start_time": "22:30",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=-27.596029037078868,-48.67751562065655",
+  "spotify_playlist": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06fv6e?si=75127aaeb29b42f4",
+  "social_media": "https://www.instagram.com/alcioneamarrom/?hl=en",
+  "ticket_price": {
+    "pista": 45,
+    "camarote": 100
+  },
+  "buy_url": "https://uhuu.com/comprar-ingressos/sc/sao-jose/alcione-50-anos-12694?queueittoken=e_principal~q_aebc8d79-4b08-48b0-8ed4-f8b9e38772ec~ts_1711556792~ce_true~rt_safetynet~h_070eea32137da7aa1eba789ee14c850518e70afb39fae85b821609ec62f23be0#/fluxo-de-selecao",
+  "description" : "Ao completar 50 anos de uma vitoriosa trajetória, Alcione preparou uma série de eventos comemorativos com o propósito, exclusivo, de celebrar esse antológico meio século de dedicação e amor à Música. No espetáculo, a Marrom conta com as participações especiais da inseparável Banda do Sol e de integrantes da Orquestra Maré do Amanhã."
+}
